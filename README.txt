@@ -1,5 +1,3 @@
-3
+4
 ||| 
-Welcome to FreeStream!!!
-
-Make sure you click number 6 to "Launch Media Player" you do not need to update everytime.
+Update is ready for download exit and click on number 3 to update.
