@@ -1,3 +1,4 @@
-4
+5
 ||| 
-Update is ready for download exit and click on number 3 to update.
+Update is ready for download exit and go to FreeStream Pro to install update
+If have just done this disregard the message.
