@@ -1,6 +1,6 @@
-9
+10
 ||| 
-10/04/2016 - Update is ready for download exit and go to FreeStream Pro to install update
+10/08/2016 - Update is ready for download exit and go to FreeStream Pro to install update
 
 Live TV Fixed 
 
