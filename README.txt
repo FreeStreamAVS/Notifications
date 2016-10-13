@@ -4,4 +4,4 @@
 
 ---Live TV updated with new guide---
 
-If have just done this disregard the message.
+If have just done this disregard this message.
