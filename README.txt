@@ -2,6 +2,8 @@
 ||| 
 1/23/2016 
 
+Software has been optimized.
+
 Added new movie section. Live TV section now has catch-up option.
 
 
