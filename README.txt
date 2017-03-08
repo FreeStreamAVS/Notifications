@@ -1,11 +1,11 @@
-23
+24
 ||| 
-3/6/2017
+3/8/2017
 
-Software has been Updated
+Software has been Updated - Live tv has been fixed 
 
 
 
-Update is ready for download exit and go to FreeStream Pro and click #3 to install update
+Update is ready for download exit 
 
 
