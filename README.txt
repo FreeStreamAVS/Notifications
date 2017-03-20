@@ -1,9 +1,8 @@
-27
+28
 ||| 
-3/17/2017 9:30am CST.
+3/20/2017 10:30am CST.
 
-Software has been Updated
-
+New live Tv service added all HD Channels. Click on "Classic"  
 
 
 Update is ready for download exit 
