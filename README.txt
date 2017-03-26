@@ -1,8 +1,8 @@
-28
+29
 ||| 
-3/20/2017 10:30am CST.
+3/26/2017 12:30am CST.
 
-New live Tv service added all HD Channels. Click on "Classic"  
+ALL FOX SPORTS REGIONAL CHANNELS ADDED  Click on "Classic" to update
 
 
 Update is ready for download exit 
