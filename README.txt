@@ -1,10 +1,9 @@
-29
+30
 ||| 
-3/26/2017 12:30am CST.
 
-ALL FOX SPORTS REGIONAL CHANNELS ADDED  Click on "Classic" to update
+7/18/2017
 
 
-Update is ready for download exit 
+Update is ready for download exit and click update.
 
 
