@@ -1,7 +1,7 @@
 32
 ||| 
 
-7/18/2017 is the date of latest update
+7/18/2017 is the date of current update
 
 
 Update is ready for download exit and click update.
